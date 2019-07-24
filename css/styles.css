@@ -1,0 +1,11 @@
+.container {
+	margin-top: 2em;
+}
+
+#appt {
+	margin-top: 2em;
+}
+
+#confirmation {
+	display: none;
+}
